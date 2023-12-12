@@ -1,0 +1,15 @@
+let a = input;
+while NOT (a == 0) {
+  if a / 3 * 3 == a
+    output 1000
+  else
+    output a;
+  set a = a-1;
+};
+
+let b = 1;
+while NOT (b == 0) {
+  set b = input;
+  set a = a + b;
+  output a;
+};

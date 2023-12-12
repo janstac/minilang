@@ -1,0 +1,10 @@
+let a = 0;
+let b = 1;
+let c = 1;
+
+while NOT(input == 0) {
+    output a;
+    let c = a+b;
+    set a = b;
+    set b = c;
+};
